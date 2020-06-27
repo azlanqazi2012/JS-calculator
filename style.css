@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 98%;
+    background-color: blue;
+    color: black;
+   border: wheat;
+ 
+}
+.clearBtn{
+width: 100%;
+margin-top: 10px;
+color: rgb(21, 18, 54);
+border: wheat;
+background-color:blue;
+}
+.btn{
+    margin: 1px;
+    background-color: blue;
+    border: wheat;
+    width: 45px;
+}
+.abc{
+    background-color: blue;
+    border: wheat;
+    width: 97px;
+    margin-top: 5px;
+}
